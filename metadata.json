@@ -1,0 +1,5 @@
+{
+  "name": "hattocookah",
+  "description": "An AI-powered app that suggests recipes based on photos of your fridge or grocery receipts. It helps you decide what to cook with the ingredients you already have, tailored to your tastes and kitchen setup.",
+  "requestFramePermissions": []
+}
